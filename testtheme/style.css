@@ -1,0 +1,43 @@
+/*
+Theme Name: Kieta tema
+Theme URL: www.google.lt
+Author: Edvinas
+Author URL : sdfsf.lt
+Description: nauja tema
+*/
+
+body {
+	background-image: url("screenshot.png");
+	    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+	font-size: 500%;
+	color: white;
+	text-align: center;
+    margin: 0px auto;
+    display: block;
+}
+
+p {
+	font-family: "Times New Roman", Times, serif;
+	color: aqua;
+	text-align: center;
+}
+
+.tekstas {
+	background-color: yellow;
+}
+
+#op {
+	background-image: url("cloud.jpg");
+		    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 20%;
+    position: center;
+}
